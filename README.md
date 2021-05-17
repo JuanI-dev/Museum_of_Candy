@@ -1,1 +1,2 @@
-# Museum_of_Candy
+# Bootstrap Practice
+Museum of Candy homepage
